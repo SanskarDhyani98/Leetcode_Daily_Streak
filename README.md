@@ -14,6 +14,6 @@ The motivation behind this daily challenge is to consistently practice problem-s
 I find inspiration and guidance from the "Codestory with Mike" YouTube channel. The video solutions provided there help me understand different approaches to solving problems.
 
 ## Contact
-Feel free to connect with me on [LinkedIn]( www.linkedin.com/in/sanskar-dhyani-593239253) if you have any questions, suggestions, or just want to discuss coding!
+Feel free to connect with me on [LinkedIn](www.linkedin.com/in/sanskar-dhyani-593239253) if you have any questions, suggestions, or just want to discuss coding!
 
 Happy coding! 🚀
