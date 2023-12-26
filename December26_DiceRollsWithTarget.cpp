@@ -35,7 +35,15 @@ public:
         memset(t, -1, sizeof(t));
         return solve(n, k, target);
     }
+    
 };
+int main()
+    {   Solution ob;int n,k,target;
+        std::cin>>n>>k>>target;
+        int ans=ob.numRollsToTarget(n,k,target);
+        std::cout<<ans; 
+        return 0;
+    }
 
 
 //Approach-2 (Bottom Up) - It's Just Like coin change-2 (Only in this qn, assume that coin has k faces having different values)
