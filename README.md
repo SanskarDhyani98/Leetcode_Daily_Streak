@@ -1,19 +1,31 @@
-# LeetCode Daily Challenge
+# LeetCode Daily Challenge Repository
 
-## Introduction
-Hi, I'm Sanskar Dhyani, a 2nd-year student at NIT Jalandhar, about to enter the 4th semester. This GitHub repository is dedicated to my journey of solving one LeetCode question daily. My primary goal is to strengthen my Data Structures and Algorithms (DSA) concepts, which I felt went slack during the previous semester due to my own laziness.
+## Overview
 
-## Motivation
-The motivation behind this daily challenge is to consistently practice problem-solving and algorithmic thinking. By solving a variety of LeetCode questions, I aim to enhance my problem-solving skills, optimize code efficiency, and explore different algorithms and data structures.
+I am Sanskar Dhyani, a 2nd-year student at NIT Jalandhar, about to enter the 4th semester. This GitHub repository is dedicated to my commitment to solving one LeetCode question daily. The goal is to enhance my problem-solving skills and reinforce my understanding of data structures and algorithms, which I acknowledge became somewhat lax in the past semester due to my own laziness.
 
-## Structure of the Repository
-- **Daily Challenges:** Each day, I will be adding a new folder with the date as the name. Inside each folder, you can find the LeetCode problem statement along with my solution in a programming language (mention the language you are using).
-- **Solutions:** You can find detailed explanations and video solutions for each problem on  [YouTube Channel]"Codestory with Mike".
+## Daily Practice
 
-## Resources
-I find inspiration and guidance from the "Codestory with Mike" YouTube channel. The video solutions provided there help me understand different approaches to solving problems.
+Each day, I will be pushing a new solution to a LeetCode problem along with an explanation of my thought process and solution approach. I aim to make this repository a log of my daily progress and a testament to my dedication to continuous learning.
 
-## Contact
-Feel free to connect with me on LinkedIn:[www.linkedin.com/in/sanskar-dhyani-593239253] if you have any questions, suggestions, or just want to discuss coding!
+## Learning Resources
 
-Happy coding! 🚀
+I draw inspiration and learn from various sources, and one of the significant contributors to my learning journey is the "Codestory with Mike" YouTube channel. The channel provides insightful video solutions that aid my understanding of complex problems.
+
+## Connect with Me
+
+Feel free to connect with me on LinkedIn: [Sanskar Dhyani - LinkedIn](https://www.linkedin.com/in/sanskar-dhyani-nitj). I'm always open to discussions, collaborations, and sharing knowledge.
+
+## Current Status
+
+- **Semester:** 2nd Year
+- **University:** NIT Jalandhar
+- **Semester:** About to enter 4th semester
+
+## Repository Structure
+
+The repository is organized chronologically, with each day's challenge residing in its respective folder. Alongside the solution, you will find an explanatory markdown file detailing the thought process and any key learnings from the problem.
+
+Feel free to explore, contribute, or provide feedback. Let's learn and grow together!
+
+Happy Coding! 🚀
