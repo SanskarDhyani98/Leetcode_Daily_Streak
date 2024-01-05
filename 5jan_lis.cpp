@@ -53,10 +53,35 @@ public:
         return *max_element(dp,dp+n);
         
     }
+    int PatienceSort(vector<int>& nums)
+    {
+        //Patience Sorting
+        int n=nums.size();
+        vector<int> ans;
+        ans.push_back(nums[0]);
+        for(int i=1;i<n;i++)
+        { /*
+			     Why lower bound ?
+				 We want increasing subsequence and  hence 
+				 we want to eliminate the duplicates as well.
+				 lower_bound returns iterator to "next greater or equal to"
+			*/
+          auto it=lower_bound(ans.begin(),ans.end(),nums[i]);
+            if(it==ans.end())
+            {
+                ans.push_back(nums[i]); //make a new entry
+            }
+            else
+                *it=nums[i]; //replace
+        }
+        return ans.size();
+        
+    }
 };
 int main()
 {
     vector<int> nums={10,9,2,5,3,7,101,18};
     Solution ob;
-    cout<<ob.lengthOfLIS(nums);
+    // cout<<ob.lengthOfLIS(nums);
+    cout<<ob.PatienceSort(nums);
 }
