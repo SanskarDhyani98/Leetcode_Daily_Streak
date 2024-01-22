@@ -44,6 +44,6 @@ public:
 int main()
 {   Solution ob;
     vector<vector<int>> matrix = {{2,1,3},{6,5,4},{7,8,9}};
-    cout<<ob.minFallingPathSum(matrix); 
+    cout<<ob.minFallingPathSudm(matrix); 
     return 0;
 }
